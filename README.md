@@ -2,4 +2,4 @@
 
 Voici mon portfolio personnel présentant mes projets et compétences.
 
-![Capture d'écran de mon site](assets/screenshot.png)
+![Capture d'écran de mon site](assets/images/screenshot.png)
