@@ -1,4 +1,4 @@
-![Nom de l'image]("./images/projets/ngoloportfolio.png")
+![mon portfolio](/images/projets/ngoloportfolio.png)
 # 🚀 Portfolio Website – Interactive Developer Portfolio
 
 Un portfolio moderne et interactif développé en **HTML, CSS et JavaScript vanilla**, avec animations avancées, curseur personnalisé, fond dynamique et formulaire de contact fonctionnel via EmailJS.
