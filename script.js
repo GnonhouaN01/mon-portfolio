@@ -176,8 +176,8 @@ async function handleSubmit(event) {
 
   try {
     await emailjs.sendForm(
-      "service_cy0ogvw",   // 🔑 Remplacez ici
-      "template_ckbd8qe",  // 🔑 Remplacez ici
+      "service_xx717rl",   
+      "template_ckbd8qe", 
       form
     );
 
